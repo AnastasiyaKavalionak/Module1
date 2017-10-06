@@ -1,0 +1,15 @@
+Before text editors existed, computer text was punched into cards with keypunch machines. Physical boxes of these thin cardboard cards 
+I
+were then inserted into a card-reader. Magnetic tape and disk "card-image" files created from such card decks often had no 
+do
+line-separation characters at all, and assumed fixed-length 80-character records. An alternative to cards was punched paper tape. It 
+not
+could be created by some teleprinters (such as the Teletype), which used special characters to indicate ends of records.
+know
+The first text editors were "line editors" oriented to teleprinter- or typewriter-style terminals without displays. Commands (often a 
+how
+single keystroke) effected edits to a file at an imaginary insertion point called the "cursor". Edits were verified by typing a command 
+this
+to print a small section of the file, and periodically by printing the entire file. In some line editors, the cursor could be moved by 
+happened
+commands that specified the line number in the file, text strings (context) for which to search, and eventually regular expressions. 
